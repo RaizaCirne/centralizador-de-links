@@ -95,7 +95,7 @@ Aplicação de animação no projeto atual
 
 ## :desktop_computer: Design
 
-![Design preview principal]()
+![Design preview principal](./design/preview.png)
 
 <br />
 
@@ -103,7 +103,8 @@ Aplicação de animação no projeto atual
 
 <br />
 
-- Clique no link para acessar a página: 
+![🔗Clique aqui para acessar](https://cool-kitsune-a78611.netlify.app/)
+
 
 <br />
 
@@ -155,7 +156,7 @@ Agradeço a Rocktseat por proporcionar um evento excelente e propor desafios par
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz]()
+- Personal Page - [Raíza Cirne Braz](https://cool-kitsune-a78611.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
