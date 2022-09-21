@@ -93,9 +93,13 @@ Aplicação de animação no projeto atual
 
 <br />
 
-## :desktop_computer: Design
+## :desktop_computer: Desktop design
 
-![Design preview principal](./design/preview.png)
+![Design preview desktop](./design/preview.png)
+
+## :iphone: Mobile design
+
+![Design preview mobile](./design/preview-mobile.png)
 
 <br />
 
