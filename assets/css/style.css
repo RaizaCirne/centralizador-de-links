@@ -6,14 +6,21 @@
 
 body {
     background-image: url(assets/img/fundo.jpg);
-    background-position: top center;
-    background-size: 100% auto;
-    background-repeat: no-repeat;
 }
 
+body * {
+    font-family: 'Inter', sans-serif;
+    line-height: 160%;
+}
 
 header {
-    padding: 42px;
+    padding-top: 42px;
+}
+
+header div {
+    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C);
+    width: 145px;
+    border-radius: 50%;
 }
 
 .perfil {
@@ -26,6 +33,13 @@ header {
 }
 
 
+
+
+/*
+body {
+    background-position: top center;
+    background-size: 100% auto;
+}
 
 .caixa {
     display: flex;
