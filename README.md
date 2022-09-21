@@ -69,7 +69,7 @@ Os usuários devem ser capazes de:
 
 1. Criação do arquivo `index.html` e do `style.css`. 
 
-2. Divisões do html em header e main 
+2. Divisões do html em `header` e `main` 
 
 3. Uma lista de navegação `ul` `li` `a` para sites externos e adição de `target` e `_blank` pra abertura do site em uma nova janela ou guia.  
 
@@ -103,7 +103,7 @@ Aplicação de animação no projeto atual
 
 <br />
 
-![🔗Clique aqui para acessar](https://cool-kitsune-a78611.netlify.app/)
+[🔗Clique aqui para acessar](https://cool-kitsune-a78611.netlify.app/)
 
 
 <br />
