@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(assets/img/fundo.jpg);
+    background-position: top center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+
+header {
+    padding: 42px;
+}
+
+.perfil {
+    display: flex;
+    justify-content: center;
+}
+
+.imagem-perfil {
+    border-radius: 50%;
+}
+
+
+
+.caixa {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+div.filmes {
+    background-color: #262629;
+    border-radius: 10px;
+    padding: 24px 32px 32px;
+    width: 580px
+}
+
+div.series {
+    background-color: #262629;
+    border-radius: 10px;
+}
+
+div.redes {
+    background-color: #262629;
+    border-radius: 10px;
+}
+
+img a li {
+    width: ;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+
+}
+
+li {
+    list-style: none;
+}
